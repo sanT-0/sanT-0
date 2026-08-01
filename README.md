@@ -93,7 +93,7 @@ identity:
 <div align="center">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanT-0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanT-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanT-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff"/>
 
 <br/>
 
