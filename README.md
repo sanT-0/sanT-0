@@ -91,13 +91,25 @@ identity:
 ## Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanT-0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff"/>
 
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanT-0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanT-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff"/>
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanT-0&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshsankar599@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh599)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/sanT-0)
 
 </div>
 
