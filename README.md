@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Santhosh%20S&fontColor=00d9ff&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=58&descSize=18&descAlign=50" width="100%"/>
 
 <a href="https://github.com/sanT-0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Santhosh...;I+build+with+Python+%26+decide+with+data;B.Tech+AI+%26+Data+Science%2C+2026; Open+to+Python+Dev+%2F+Data+Analyst+roles+in+Chennai ." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Santhosh...;I+build+with+Python+%26+decide+with+data;B.Tech+AI+%26+Data+Science%2C+2026;Python+Dev+%2F+Data+Analyst+roles+in+Chennai" alt="Typing SVG" />
 </a>
 
 <br/>
