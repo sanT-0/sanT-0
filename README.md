@@ -1,133 +1,141 @@
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                    HEY THERE, WELCOME.                          -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Santhosh%20S&fontColor=00d9ff&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=58&descSize=18&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:06b6d4&height=210&section=header&text=Santhosh%20S&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=AI-Powered%20Full-Stack%20Developer%20%E2%80%A2%20Data%20%26%20ML%20Builder&descAlignY=58&descSize=18" width="100%" alt="Santhosh S"/>
 
 <a href="https://github.com/sanT-0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Santhosh...;I+build+with+Python+%26+decide+with+data;B.Tech+AI+%26+Data+Science%2C+2026;Python+Dev+%2F+Data+Analyst+roles+in+Chennai" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+agent-ready+developer+tools;Shipping+full-stack+products+with+Python+%26+TypeScript;Turning+data+into+automation+and+decisions;Open+to+Full-Stack+%2F+Data+%2F+ML+opportunities" alt="Typing introduction"/>
 </a>
 
 <br/>
 
-<div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
-</div>
-
----
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sant-0.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh599)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/sanT-0)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshsankar599@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshsankar599@gmail.com)
 
 </div>
 
----
-
-```bash
-sant@databench:~$ whoami --verbose
-```
+## About Me
 
 ```yaml
-identity:
-  name:       "Santhosh"
-  handle:     "sanT-0"
-  location:   "Chennai, India"
-  role:       "Aspiring Python Developer | Data Analyst | Fresher"
-  education:  "B.Tech, AI & Data Science (2026) - Tagore Institute of Engineering & Technology"
-  status:     "Open to work 📈"
-  experience: "Data Science Intern @ PySpiders, Bengaluru"
-  focus:
-    - "Building clean, functional Python applications & automation scripts"
-    - "Turning messy data into clean, decision-ready insights"
-    - "Dashboards that business teams actually use"
-    - "SQL query optimization & database design"
-    - "End-to-end analytics: clean -> analyze -> visualize -> report"
+name: Santhosh S
+location: Chennai, India
+education: B.Tech — Artificial Intelligence & Data Science (2026)
+experience: Data Science Intern — PySpiders, Bengaluru
+focus:
+  - AI-powered full-stack applications
+  - Agent skills, MCP tools, and developer automation
+  - Data engineering, analytics, and machine learning
+  - Secure, self-hostable software
+status: Open to Full-Stack, Data, and ML opportunities
 ```
 
----
+I enjoy building products that connect **usable interfaces**, **reliable
+backends**, and **data intelligence**. My recent work spans portable AI-agent
+skills, self-hosted media automation, full-stack business applications,
+security tooling, and end-to-end analytics.
 
-## Arsenal
+## Technical Skills
 
-<div align="center">
+### Languages & Backend
 
-### Python Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-### Data Analysis & Visualization
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### Frontend & Product
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Data, ML & Business Intelligence
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-
-### BI & Tools
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Databases
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-</div>
+### Engineering & Automation
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Agent_Tooling-7C3AED?style=flat-square)
+![Agent Skills](https://img.shields.io/badge/Agent_Skills-Portable-0F766E?style=flat-square)
 
-## Pinned Projects
+## Featured Work
 
-| Project | Description |
-|---------|-------------|
-| [**Retail-Forecasting-System-with-Gmail-Automation**](https://github.com/sanT-0/Retail-Forecasting-System-with-Gmail-Automation) | Built a Python automation pipeline that trains ML forecasting models on retail sales data and auto-delivers reports via Gmail — no manual pull needed. |
-| [**shopindia-powerbi-dashboard**](https://github.com/sanT-0/shopindia-powerbi-dashboard) | Took raw CSV sales data through a full analytics workflow to an executive-ready Power BI dashboard, simulating a real Data Analyst deliverable. |
-| [**sanT-chatbot**](https://github.com/sanT-0/sanT-chatbot) | Engineered a conversational AI chatbot in Python (TensorFlow/Keras + Flask) with intent classification and context handling — a full backend + ML integration. |
-| [**Global-Development-Analytics**](https://github.com/sanT-0/Global-Development-Analytics) | Analyzed 50+ years of global development indicators (Gapminder, 1952-2007) to surface trends in health, wealth, and population growth. |
-| [**leetcode-solutions**](https://github.com/sanT-0/leetcode-solutions) | Python & SQL solutions across Data Structures, Algorithms, and Database problems — clean, optimized, interview-ready code. |
-| [**Python-Quiz**](https://github.com/sanT-0/Python-Quiz) | Command-line Python quiz app covering Python history and syntax fundamentals — built to practice core language design. |
+| Project | What it demonstrates | Stack / focus |
+|---|---|---|
+| [**NSE Day Trader Skills**](https://github.com/sanT-0/nse-day-trader-skills) | Twelve portable skills plus standalone CLIs for Indian-market analysis, sizing, risk checks, and manual broker tickets | Python, Agent Skills, NSE, CI |
+| [**FacelessPro**](https://github.com/sanT-0/facelesspro) | Self-hostable AI video studio with scenes, narration, illustrated stills, captions, high-resolution export, REST API, MCP, and Tamil/English support | TypeScript, Next.js, Hono, FFmpeg, MCP |
+| [**JobTrack**](https://github.com/sanT-0/JobTrack) | Full-stack job application and interview tracker with a containerized backend and relational data model | React, FastAPI, SQLAlchemy, MySQL, Docker |
+| [**WorkGuard**](https://github.com/sanT-0/WorkGuard) | Windows-focused controls for keeping company source and work files on managed local devices | Security tooling, Windows, policy design |
+| [**Retail Forecasting & Gmail Automation**](https://github.com/sanT-0/Retail-Forecasting-System-with-Gmail-Automation) | End-to-end retail-sales prediction with automated reporting | Python, machine learning, automation |
+| [**Global Development Analytics**](https://github.com/sanT-0/Global-Development-Analytics) | Exploratory analysis of life expectancy, GDP per capita, and population trends across five decades | Python, Pandas, visualization, Jupyter |
 
----
+## Skill-Pack Highlights
 
-## Stats
+### [`nse-day-trader-skills`](https://github.com/sanT-0/nse-day-trader-skills)
+
+- 12 portable `SKILL.md` modules
+- Standalone standard-library Python CLI
+- Scanner, market flows, news, fundamentals, entries, exits, simulation,
+  position sizing, risk gate, tickets, and alerts
+- Cash equities, long futures, and long options
+- Configurable broker charge profiles
+- Broker-neutral JSON/Markdown ticket contract
+- Windows/Linux CI and deterministic ZIP releases
+
+```bash
+git clone https://github.com/sanT-0/nse-day-trader-skills.git
+cd nse-day-trader-skills
+python scripts/run.py --list
+```
+
+## More Projects
+
+- [**Python Chatbot**](https://github.com/sanT-0/Python-Chatbot) — TensorFlow/Keras intent classification with a Flask interface
+- [**ShopIndia Power BI Dashboard**](https://github.com/sanT-0/shopindia-powerbi-dashboard) — raw CSV to executive-ready business insights
+- [**LeetCode Solutions**](https://github.com/sanT-0/leetcode-solutions) — Python and SQL interview practice
+- [**Portfolio**](https://github.com/sanT-0/portfolio) — responsive project, experience, and certification showcase
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanT-0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanT-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=sanT-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=14b8a6" alt="GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanT-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee" alt="Top languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanT-0&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanT-0&theme=tokyonight&hide_border=true&background=0d1117&stroke=22d3ee&ring=14b8a6&fire=22d3ee&currStreakLabel=22d3ee" alt="GitHub streak"/>
 
 </div>
 
----
-
-## Contact
+## Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshsankar599@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh599)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/sanT-0)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sant-0.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh599)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshsankar599@gmail.com)
 
-</div>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=sanT-0&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<div align="center">
-
-> *"In God we trust. All others must bring data."*
-
-<img src="https://komarev.com/ghpvc/?username=sanT-0&style=flat-square&color=00d9ff&label=PROFILE+VIEWS" alt="profile views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f766e,100:0f172a&height=110&section=footer" width="100%" alt="Footer"/>
 
 </div>
