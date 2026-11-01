@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Santhosh S — Full-Stack Developer Intern at DGIWORX"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:06b6d4&height=210&section=header&text=Santhosh%20S&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=AI-Powered%20Full-Stack%20Developer%20%E2%80%A2%20Data%20%26%20ML%20Builder&descAlignY=58&descSize=18" width="100%" alt="Santhosh S"/>
 
 <a href="https://github.com/sanT-0">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+agent-ready+developer+tools;Shipping+full-stack+products+with+Python+%26+TypeScript;Turning+data+into+automation+and+decisions;Open+to+Full-Stack+%2F+Data+%2F+ML+opportunities" alt="Typing introduction"/>
