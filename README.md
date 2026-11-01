@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:06b6d4&height=210&section=header&text=Santhosh%20S&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=AI-Powered%20Full-Stack%20Developer%20%E2%80%A2%20Data%20%26%20ML%20Builder&descAlignY=58&descSize=18" width="100%" alt="Santhosh S"/>
+<h1>Hi 👋, I'm Santhosh S</h1>
 
-<a href="https://github.com/sanT-0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+agent-ready+developer+tools;Shipping+full-stack+products+with+Python+%26+TypeScript;Turning+data+into+automation+and+decisions;Open+to+Full-Stack+%2F+Data+%2F+ML+opportunities" alt="Typing introduction"/>
-</a>
+<h3>Full-Stack Developer Intern @ DGIWORX · Adyar, Chennai</h3>
 
-<br/>
+<p><strong>AI & Data Science · Python · TypeScript · Full-Stack · Data & ML</strong></p>
+<p>Building agent-ready tools, practical web products, and data-driven automation.</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sant-0.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh599)
@@ -18,21 +17,24 @@
 
 ```yaml
 name: Santhosh S
-location: Chennai, India
+location: Adyar, Chennai, India
+current_role: Full-Stack Developer Intern
+company: DGIWORX
 education: B.Tech — Artificial Intelligence & Data Science (2026)
-experience: Data Science Intern — PySpiders, Bengaluru
+previous_experience: Data Science Intern — PySpiders, Bengaluru
 focus:
   - AI-powered full-stack applications
   - Agent skills, MCP tools, and developer automation
   - Data engineering, analytics, and machine learning
   - Secure, self-hostable software
-status: Open to Full-Stack, Data, and ML opportunities
+career_focus: Full-Stack, Data, and ML engineering
 ```
 
-I enjoy building products that connect **usable interfaces**, **reliable
-backends**, and **data intelligence**. My recent work spans portable AI-agent
-skills, self-hosted media automation, full-stack business applications,
-security tooling, and end-to-end analytics.
+I currently work as a **Full-Stack Developer Intern at DGIWORX in Adyar,
+Chennai**. I enjoy building products that connect **usable interfaces**,
+**reliable backends**, and **data intelligence**. My recent work spans portable
+AI-agent skills, self-hosted media automation, full-stack business
+applications, security tooling, and end-to-end analytics.
 
 ## Technical Skills
 
@@ -113,16 +115,12 @@ python scripts/run.py --list
 
 ## GitHub Activity
 
-<div align="center">
+- Building public projects across full-stack development, AI tooling, data,
+  automation, security, and developer productivity
+- Maintaining portable agent skills with tested Windows/Linux releases
+- Practicing Python, SQL, data structures, algorithms, and product engineering
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=sanT-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=14b8a6" alt="GitHub statistics"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanT-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee" alt="Top languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanT-0&theme=tokyonight&hide_border=true&background=0d1117&stroke=22d3ee&ring=14b8a6&fire=22d3ee&currStreakLabel=22d3ee" alt="GitHub streak"/>
-
-</div>
+[**Explore all repositories →**](https://github.com/sanT-0?tab=repositories)
 
 ## Connect
 
@@ -136,6 +134,6 @@ python scripts/run.py --list
 
 <img src="https://komarev.com/ghpvc/?username=sanT-0&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f766e,100:0f172a&height=110&section=footer" width="100%" alt="Footer"/>
+<p><sub>Thanks for visiting — feel free to explore my projects or connect.</sub></p>
 
 </div>
