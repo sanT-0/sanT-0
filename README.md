@@ -1,11 +1,12 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Santhosh S</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:06b6d4&height=210&section=header&text=Santhosh%20S&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=AI-Powered%20Full-Stack%20Developer%20%E2%80%A2%20Data%20%26%20ML%20Builder&descAlignY=58&descSize=18" width="100%" alt="Santhosh S"/>
 
-<h3>Full-Stack Developer Intern @ DGIWORX · Adyar, Chennai</h3>
+<a href="https://github.com/sanT-0">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+agent-ready+developer+tools;Shipping+full-stack+products+with+Python+%26+TypeScript;Turning+data+into+automation+and+decisions;Open+to+Full-Stack+%2F+Data+%2F+ML+opportunities" alt="Typing introduction"/>
+</a>
 
-<p><strong>AI & Data Science · Python · TypeScript · Full-Stack · Data & ML</strong></p>
-<p>Building agent-ready tools, practical web products, and data-driven automation.</p>
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sant-0.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh599)
