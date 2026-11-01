@@ -85,7 +85,7 @@ applications, security tooling, and end-to-end analytics.
 
 | Project | What it demonstrates | Stack / focus |
 |---|---|---|
-| [**NSE Day Trader Skills**](https://github.com/sanT-0/nse-day-trader-skills) | Twelve portable skills plus standalone CLIs for Indian-market analysis, sizing, risk checks, and manual broker tickets | Python, Agent Skills, NSE, CI |
+| [**NSE Day Trader Skills**](https://github.com/sanT-0/nse-day-trader-skills) | Thirteen portable skills plus standalone CLIs for Indian-market analysis, sizing, risk checks, and manual broker tickets | Python, Agent Skills, NSE, CI |
 | [**FacelessPro**](https://github.com/sanT-0/facelesspro) | Self-hostable AI video studio with scenes, narration, illustrated stills, captions, high-resolution export, REST API, MCP, and Tamil/English support | TypeScript, Next.js, Hono, FFmpeg, MCP |
 | [**JobTrack**](https://github.com/sanT-0/JobTrack) | Full-stack job application and interview tracker with a containerized backend and relational data model | React, FastAPI, SQLAlchemy, MySQL, Docker |
 | [**WorkGuard**](https://github.com/sanT-0/WorkGuard) | Windows-focused controls for keeping company source and work files on managed local devices | Security tooling, Windows, policy design |
@@ -96,9 +96,9 @@ applications, security tooling, and end-to-end analytics.
 
 ### [`nse-day-trader-skills`](https://github.com/sanT-0/nse-day-trader-skills)
 
-- 12 portable `SKILL.md` modules
+- 13 portable `SKILL.md` modules
 - Standalone standard-library Python CLI
-- Scanner, market flows, news, fundamentals, entries, exits, simulation,
+- Market overview, scanner, market flows, news, fundamentals, entries, exits, simulation,
   position sizing, risk gate, tickets, and alerts
 - Cash equities, long futures, and long options
 - Configurable broker charge profiles
